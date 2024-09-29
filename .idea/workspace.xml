@@ -5,39 +5,156 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9566a0c-fc3f-4965-8eab-c8bbd809f880" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ksai2Ba0uVy4oUj9f7YS65Ik67" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SparkAndJavaMain.executor": "Run",
+    "JUnit.CreateRDDUsingParallelizeTest.createEmptyRDDWithDefaultPartitionsInSpark.executor": "Run",
+    "JUnit.CreateRDDUsingParallelizeTest.createEmptyRDDWithNoPartitionsInSpark.executor": "Run",
+    "JUnit.CreateRDDUsingParallelizeTest.createSparkRDDUsingParallelize.executor": "Run",
+    "JUnit.CreateRDDUsingParallelizeTest.createSparkRDDUsingParallelizeWithGivenPartitions.executor": "Run",
+    "JUnit.RDDExternalDataSetTest.executor": "Run",
+    "JUnit.RDDExternalDataSetTest.testLoadingCSVFileInRDD.executor": "Run",
+    "JUnit.RDDExternalDataSetTest.testLoadingLocalTextFileInRDD.executor": "Run",
+    "JUnit.RDDExternalDataSetTest.testLoadingLocalTextFileInRDDUsingMethodSource.executor": "Run",
+    "JUnit.RDDExternalDataSetTest.testLoadingWholeDirectoryInRDD.executor": "Run",
+    "JUnit.WordCountTest.testLoadingCSVFileInRDD.executor": "Run",
+    "Maven.SparkAndJava [clean,install,-DskipTests].executor": "Run",
+    "Maven.SparkAndJava [clean,install].executor": "Run",
+    "Maven.SparkAndJava [clean].executor": "Run",
+    "Maven.SparkAndJava [dependency:tree].executor": "Run",
+    "Maven.SparkAndJava [verify].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/iamdrjsolanki/Documents/Projects/SparkAndJavaBasics/src/test/resources",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pratice.java" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install -DskipTests" />
+      <command value="mvn dependency:tree" />
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.WordCountTest.testLoadingCSVFileInRDD">
+    <configuration name="RDDExternalDataSetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SparkAndJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pratice.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pratice.java" />
+      <option name="MAIN_CLASS_NAME" value="com.pratice.java.RDDExternalDataSetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RDDExternalDataSetTest.testLoadingCSVFileInRDD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SparkAndJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pratice.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pratice.java" />
+      <option name="MAIN_CLASS_NAME" value="com.pratice.java.RDDExternalDataSetTest" />
+      <option name="METHOD_NAME" value="testLoadingCSVFileInRDD" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RDDExternalDataSetTest.testLoadingLocalTextFileInRDDUsingMethodSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SparkAndJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pratice.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pratice.java" />
+      <option name="MAIN_CLASS_NAME" value="com.pratice.java.RDDExternalDataSetTest" />
+      <option name="METHOD_NAME" value="testLoadingLocalTextFileInRDDUsingMethodSource(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RDDExternalDataSetTest.testLoadingWholeDirectoryInRDD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SparkAndJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pratice.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pratice.java" />
+      <option name="MAIN_CLASS_NAME" value="com.pratice.java.RDDExternalDataSetTest" />
+      <option name="METHOD_NAME" value="testLoadingWholeDirectoryInRDD" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountTest.testLoadingCSVFileInRDD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SparkAndJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pratice.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pratice.java" />
+      <option name="MAIN_CLASS_NAME" value="com.pratice.java.WordCountTest" />
+      <option name="METHOD_NAME" value="testLoadingCSVFileInRDD" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="SparkAndJava" />
       <method v="2">
@@ -51,6 +168,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WordCountTest.testLoadingCSVFileInRDD" />
+        <item itemvalue="JUnit.RDDExternalDataSetTest.testLoadingCSVFileInRDD" />
+        <item itemvalue="JUnit.RDDExternalDataSetTest.testLoadingWholeDirectoryInRDD" />
+        <item itemvalue="JUnit.RDDExternalDataSetTest.testLoadingLocalTextFileInRDDUsingMethodSource" />
+        <item itemvalue="JUnit.RDDExternalDataSetTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -62,5 +188,16 @@
       <updated>1724074864122</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
