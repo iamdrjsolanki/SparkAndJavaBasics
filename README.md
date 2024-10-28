@@ -1,3 +1,5 @@
+Note: There are some actual examples in the test directory
+
 Spark Overview
 - Spark is a flexible alternative for MapReduce, while MapReduce only works with data stored in HDFS format only, Spark can transform data which is stored in HDFS, AWS S3, MongoDB, HBase, etc.
 - Spark can process 100x faster than MapReduce, as MapReduce writes each data to disk after map & reduce operation, whereas Spark keeps the data in memory and only writes on disk if the memory is full.
